@@ -1,0 +1,20 @@
+{"frames": {
+
+"bkgnd2.png":
+{
+	"frame": {"x":0,"y":0,"w":388,"h":428},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":388,"h":428},
+	"sourceSize": {"w":388,"h":428}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bkgnd2.png",
+	"format": "RGBA8888",
+	"size": {"w":388,"h":428},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:309d5e4733ec4e49d3080929e5186d7a:4dbce736040323b88eb97df6debb6c3d:81eb17676671d1d420397618904810c1$"
+}
+}

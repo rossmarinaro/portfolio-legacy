@@ -1,0 +1,20 @@
+{"frames": {
+
+"playermap.png":
+{
+	"frame": {"x":0,"y":0,"w":360,"h":293},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":293},
+	"sourceSize": {"w":360,"h":293}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "playermap.png",
+	"format": "RGBA8888",
+	"size": {"w":360,"h":293},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:88cc99957a2363080d3d8673d51273b0:664a4fd8732ba8462aa486a9f9a60993:e011a65c7b62d7bc63d288c8830bfe3e$"
+}
+}

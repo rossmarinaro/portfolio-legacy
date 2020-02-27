@@ -1,0 +1,35 @@
+/*css*/
+
+#index{ 
+ 
+	background-image: url(assets/backgrounds/background-main.gif);
+	background-size: cover;
+	margin: 0; 
+	
+	}
+	
+
+#retry{
+	
+	
+	background-image: url(assets/backgrounds/background-main.gif);
+	background-size: cover;
+	margin: 0; 
+}
+img{ 
+	
+	width: 15%;
+	position: absolute;
+	left: 45%;
+	margin-top: 220px;					
+}
+
+h1{
+	position: absolute;
+	left: 250px;
+	top: 300px;
+	font-family: 'Bangers' , 'Arial Black', sans-serif;
+	color: #FFFFFF;
+	
+}
+	
