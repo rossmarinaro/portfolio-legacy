@@ -18,7 +18,7 @@ var config = {
     },
     //array of stages/ minigames within the game
     scene: 
-        [BootState, PreloadState_lv1, Preload_IntroState, IntroState, MenuState, PlayState_lv1, LivesState_lv1
+        [BootState, PreloadState_lv1, Preload_IntroState, IntroState, MenuState, PlayState_lv1, LivesState_lv1, RetryState
          ]
    
 };
